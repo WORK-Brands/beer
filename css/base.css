@@ -12,8 +12,8 @@ body {
 	--color-menu-item: #fff;
 	--color-menu-item-hover: #e0f3ca;
 	--color-bg-menu: #cbf3ee;
-	--color-bg-facts: #000;
-	--color-text-facts: #fff;
+	--color-bg-facts: #9cd5e9;
+	--color-text-facts: #000;
 	--color-bg-img: #000;
 	--color-bg-more-1: #fee9b1;
 	--color-bg-more-2: #e0f3ca;
@@ -126,7 +126,6 @@ button:focus {
 }
 
 .title {
-	text-transform: lowercase;
 	font-size: 1.35rem;
 	margin: 0;
 }
@@ -362,7 +361,7 @@ button:focus {
 	max-height: 100%;
 	margin: auto 0;
 	display: block;
-} 
+}
 
 .section__more {
 	display: flex;
