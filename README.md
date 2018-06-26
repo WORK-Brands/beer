@@ -1,17 +1,13 @@
-# Outdoors Template
+# WORK Beer 2018
 
-An implementation of [Gil Huybrecht](http://www.gilhuybrecht.com/) ["Outdoors"](https://dribbble.com/shots/4022235-Outdoors-Transition) design project.
+An re-mix of [Gil Huybrecht](http://www.gilhuybrecht.com/) ["Outdoors"](https://dribbble.com/shots/4022235-Outdoors-Transition) design project.
 
-![Image Title](link)
-
-[Article on Codrops](https://tympanus.net/codrops/?p=33851)
-
-[Demo](http://tympanus.net/Development/OutdoorsTemplate/)
+[Live](http://www.workbeer.com)
 
 ## Credits
 
 - Design by [Gil Huybrecht](http://www.gilhuybrecht.com/)
-- Images by [Unsplash.com](http://unsplash.com)
+- Images by [Adam Ewing](http://www.adamewing.com) and [Unsplash.com](http://unsplash.com)
 - [anime.js](http://anime-js.com/) by Julian Garnier
 - [imagesLoaded](http://imagesloaded.desandro.com/) by Dave DeSandro
 - [Charming.js](https://github.com/yuanqing/charming) by Yuan Qing
@@ -21,11 +17,6 @@ This resource can be used freely if integrated or build upon in personal or comm
 
 ## Misc
 
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/), [Instagram](https://www.instagram.com/codropsss/)
+Follow WORK Beer: [Twitter](http://www.twitter.com/workbeer), [Facebook](http://www.facebook.com/workbeer), [GitHub](https://github.com/worklabs), [Instagram](https://www.instagram.com/workbeer/)
 
-[© Codrops 2018](http://www.codrops.com)
-
-
-
-
-
+[© WORK & Friends 2018](http://www.work-friends.com)
