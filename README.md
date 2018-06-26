@@ -1,8 +1,8 @@
-# WORK Beer 2018
+# WORK Beer
 
 An re-mix of [Gil Huybrecht](http://www.gilhuybrecht.com/) ["Outdoors"](https://dribbble.com/shots/4022235-Outdoors-Transition) design project.
 
-[Live](http://www.workbeer.com)
+[Visit Site](http://www.workbeer.com)
 
 ## Credits
 
